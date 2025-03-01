@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ghome7468:16ILyAhZLx6owBx6@cluster0.2msug.mongodb.net/ideadb?retryWrites=true&w=majority&appName=Cluster0
+
+server:
+  port: 8080
